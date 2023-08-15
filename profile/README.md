@@ -1,4 +1,4 @@
-# FE-Easy
+# cs-group-study
 > CS 스터디 그룹 페이지(cs-group-study)
 
 ## 1. 페이지는?
